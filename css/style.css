@@ -140,4 +140,14 @@ img {
   .why-us .col {
     width: 100%;
   }
+
+  .steps {
+    margin: 3rem 0 0;
+  }
+
+  .why-us {
+    padding: 3rem 0;
+    margin-bottom: 0;
+    background-color: #222222;
+  }
 }
